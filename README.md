@@ -1,0 +1,1 @@
+Sample repository for a class tutorial.
